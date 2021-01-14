@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="56">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="28">
   <style>
     article {
       font-size: 14px;
@@ -56,28 +56,15 @@
     .down .status {
       color: #e53935;
     }
-    .url {
-      font-size: 12px;
-      opacity: .9;
-    }
-    .metrics {
-      display: flex;
-      flex-direction: column;
-    }
-    .metric {
-      font-size: 10px;
-      opacity: .7;
-      margin-right: 16px;
-    }
   </style>
   <foreignObject x="0" y="0" width="100%" height="100%">
     <article class="badge up " xmlns="http://www.w3.org/1999/xhtml">
-      <img src="data:application/octet-stream;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABs0lEQVR4AWL4//8/RRjO8Iucx+noO0O2qmlbUEnt5r3Juas+hsQD6KaG7dqCKPgx72Pe9GIY27btZBrbtm3btm0nO12D7tVXe63jqtqqU/iDw9K58sEruKkngH0DBljOE+T/qqx/Ln718RZOFasxyd3XRbWzlFMxRbgOTx9QWFzHtZlD+aqLb108sOAIAai6+NbHW7lUHaZkDFJt+wp1DG7R1d0b7Z88EOL08oXwjokcOvvUxYMjBFCamWP5KjKBjKOpZx2HEPj+Ieod26U+dpg6lK2CIwTQH0oECGT5eHj+IgSueJ5fPaPg6PZrz6DGHiGAISE7QPrIvIKVrSvCe2DNHSsehIDatOBna/+OEOgTQE6WAy1AAFiVcf6PhgCGxEvlA9QngLlAQCkLsNWhBZIDz/zg4ggmjHfYxoPGEMPZECW+zjwmFk6Ih194y7VHYGOPvEYlTAJlQwI4MEhgTOzZGiNalRpGgsOYFw5lEfTKybgfBtmuTNdI3MrOTAQmYf/DNcAwDeycVjROgZFt18gMso6V5Z8JpcEk2LPKpOAH0/4bKMCAYnuqm7cHOGHJTBRhAEJN9d/t5zCxAAAAAElFTkSuQmCC" />
+      <img src="data:application/octet-stream;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAnlJREFUOI2Fkk9I02Ecxj+/uYloRpsMYiCiedBACHfIiQdREYuCLmqRiX+QefPgIdolqIMQdBDx4BgjJUFixEBjsiiVYMM/4WGIhlO3qanIjE0stjm/HcbCidVz+7y8z/O+34evYrFYpKSkhLOzMwDUGg2KonCaSCAiqFQqQqEQGxsb38bHx8u4KJvNJue1trgoHrdbTs+d2e12GRkZESB00a9Kvwww6/EwU1fHamMjw4rCSSIBQCAQoKamBrPZXHgxRH0ekhoNvcfHbBuN6Nva2Ds8pNhgoLKyEq/XS0NDA3Nznwt7ehrvnpxYHgeD3uqMAInFiAwOUtjXx8nSEitTUxCLYTQaAcjLy2VgwERZWeUHt9tANFoMVqv1z6ybm5siInIUj4vf75doNJrioyMREfH5VsTpbJSmpqTAsQAPMn6Q7kOr0YBOR35+foq1WuLxX0xOzrG3N8z0tArIbwWcqvMBOdk57AR3iEQiaLVawuEwAPHYT8bGvmIwfGdoqAhQWoF3GSXOr8zjWfeQlCSdpk6iSpSCggIAXr11cl30dHS8BFpImwGw2+yy/WNb6EUYRXiDmF6YZNW3Knv7h/K8q1OqqgICIjbbjDQ335GMPdCoNTi+OMAE3AfugbfYy27wAP/6KI+eZuFwNNHTM0t3dy3hcCxzkZKSpEJfkaK11FAly7Dsc6HTGdBp9UxMPMFqreUyqeKJOPVV9dzy34IQFLngtcpMdW0LihLD5dqnv99yqTmjxE99M4w87KL46hV8t29wc3eL4FYu7e32v5oB1NnZ2QDoCq7x7OP7f14GyMrKymClvLxcDg4O/mtMq7S0lIWFBSXNvwHBozVzmvt2AgAAAABJRU5ErkJggg==" />
       <aside>
         <header>
           <h1>
           
-            Encryption
+            Paint
           
           </h1>
           <div class="status">
@@ -88,24 +75,6 @@
             
           </div>
         </header>
-        <div class="url">
-          
-            encryption.2005danielus.ml:443
-          
-        </div>
-        <div class="metrics">
-          <div class="metric">
-            
-            
-            /24h
-            
-            - 100.00% uptime
-            
-            
-             - 514 ms response time
-            
-          </div>
-        </div>
       </aside>
     </article>
   </foreignObject>

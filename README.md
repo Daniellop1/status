@@ -16,4 +16,5 @@
 ![Encryption](status/encryption.2005danielus.ml-443.svg)
 ![Content management](status/cnd.2005danielus.ml-443.svg)
 ![Voice recognition](status/voice.2005danielus.ml-443.svg)
+![Paint](status/paint.2005danielus.ml-443.svg)
 <!-- <downtime-status/> -->
