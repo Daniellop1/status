@@ -1,0 +1,60 @@
+
+hosts:
+  - name: 2005danielus.ml
+    title: Website
+
+  - name: blog.2005danielus.ml
+    title: Blog
+ 
+  - name: finder.2005danielus.ml
+    title: Finder
+
+  - name: notes.2005danielus.ml
+    title: Notes
+  
+  - name: markdown.2005danielus.ml
+    title: Markdown editor
+
+  - name: weather.2005danielus.ml
+    title: Weather
+ 
+  - name: lists.2005danielus.ml
+    title: Lists
+
+  - name: soko.2005danielus.ml
+    title: Sokoban
+    
+  - name: music.2005danielus.ml
+    title: Music
+
+  - name: dino.2005danielus.ml
+    title: Dino
+
+  - name: mail.2005danielus.ml
+    title: Mail
+
+  - name: todo.2005danielus.ml
+    title: TO-DO
+  
+  - name: encryption.2005danielus.ml
+    title: Encryption
+  
+  - name: cnd.2005danielus.ml
+    title: Content management
+
+site:
+
+  title: Daniellop Status
+
+  favicon: https://avatars2.githubusercontent.com/u/44546966?s=460&u=85196011c3174c0486ec553e7b8fe835e8420acb&v=4
+
+  refresh_rate_sec: 120
+
+defaults:
+  use: curl
+
+  timeout: 30
+
+  port: 443
+  
+  status_slow_ms: 30000
