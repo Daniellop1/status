@@ -8,7 +8,7 @@ on:
 
 jobs:
   connection-tests:
-    if: "(github.repository != 'daniellop1/status')||(contains(toJSON(github.event.commits.*.message), '[connection-tests]'))"
+    if: "(github.repository != 'lowlighter/downtime')||(contains(toJSON(github.event.commits.*.message), '[connection-tests]'))"
     runs-on: ubuntu-latest
     steps:
 
