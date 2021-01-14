@@ -44,6 +44,9 @@ hosts:
     
   - name: voice.2005danielus.ml
     title: Voice recognition
+    
+  - name: paint.2005danielus.ml
+    title: Paint
 
 site:
 
