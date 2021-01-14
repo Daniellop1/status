@@ -77,7 +77,7 @@
         <header>
           <h1>
           
-            Google DNS
+            Weather
           
           </h1>
           <div class="status">
@@ -90,7 +90,7 @@
         </header>
         <div class="url">
           
-            8.8.8.8:53
+            weather.2005danielus.ml:443
           
         </div>
         <div class="metrics">
@@ -102,7 +102,7 @@
             - 100.00% uptime
             
             
-             - 10 ms response time
+             - 253 ms response time
             
           </div>
         </div>

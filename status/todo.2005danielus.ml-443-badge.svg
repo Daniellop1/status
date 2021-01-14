@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="56">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="28">
   <style>
     article {
       font-size: 14px;
@@ -56,28 +56,15 @@
     .down .status {
       color: #e53935;
     }
-    .url {
-      font-size: 12px;
-      opacity: .9;
-    }
-    .metrics {
-      display: flex;
-      flex-direction: column;
-    }
-    .metric {
-      font-size: 10px;
-      opacity: .7;
-      margin-right: 16px;
-    }
   </style>
   <foreignObject x="0" y="0" width="100%" height="100%">
     <article class="badge up " xmlns="http://www.w3.org/1999/xhtml">
-      <img src="data:application/octet-stream;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAglJREFUOI2Nk99L02EUxj/vNkthRdToFxLNJqaJESYVXtSN3ZS1CqMM6qKLQKJ/oPsF3eV1F1HRBrVcGV4FdRPeJUK0oeYaUmyzRbOxpvtuTxd+v7atIA+ci/e8z3nOe57zHmgwSQFJEUkzksq2z9ixtkZ8bSKSxvR/i0r6Z3LCQRRfxZS7claZ7u3KHPApd3lQxfE67rhDYmyCMSCo5RLfh89QSc6A2w1WebWCZwNaLtLU08fWxy+cus+NMRecniVJi+dOKtPfrUzPLhUij2TNz8lKzqkQfqjs0XZV8j8a2/FjiyPrQ1iZI61Kd+yUtZBahxSSpDC2wrImA1qZQMXo6HqTJSnhAfwAys9h3NA80FsnsLn1kw6vWTv/qkCwy829ay0AbZ46sMBUGkZUY9uaDW4DtQgXkATwbG6nBEwsxOtHPLqJRMhLIuTl4mEPhbLY53M51/Mu4D1AevcdDi6e4NRUhM9LX/6qns3D/UmLchX6O9cePmW0+j0/AQzErvO1mOVbpcjdQyMca+3FZVxMp6e5/SaFL32DPT6LJzdbHAK/85GiwPlSdYXg+Agfl1J4jJuyKghoMi5kCuzQcd4OhWjZCMAzY8yQQwAQB/YDvJx9zYPZGO9ycapA35YAVwOnudQ56FSOA13G/JmOsw/Rdcz+qRqXqU51yS8prNXlWrE9Ycf2NuJ/A6uf5JCErH2FAAAAAElFTkSuQmCC" />
+      <img src="data:application/octet-stream;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAKFJREFUOI3dT7ENwyAQPEdACYgXDGAa1kidKTyJW89iD5E10iKl9Az+NERCjhXL7pKTrnnd3d8Bf49b4Wk8Ck+hA8CF3ZmAuQqYj5qHyvzmcCRg2QhYmPlDeNkwTwCa9VEp1cQYp73P7cZnVkpxCIFTSpxzbr81GNeJUkoYY2CthdYafd+P9RRRaa+lwbOqDeccvPcgIhARhBBt0d735vwIXgcZLjYI3AwpAAAAAElFTkSuQmCC" />
       <aside>
         <header>
           <h1>
           
-            Google
+            TO-DO
           
           </h1>
           <div class="status">
@@ -88,24 +75,6 @@
             
           </div>
         </header>
-        <div class="url">
-          
-            google.com:443
-          
-        </div>
-        <div class="metrics">
-          <div class="metric">
-            
-            
-            /24h
-            
-            - 100.00% uptime
-            
-            
-             - 10 ms response time
-            
-          </div>
-        </div>
       </aside>
     </article>
   </foreignObject>

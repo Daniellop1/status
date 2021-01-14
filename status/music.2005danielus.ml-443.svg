@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="56">
+  <style>
+    article {
+      font-size: 14px;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+      color: #777777;
+      margin: 4px;
+      width: 100%;
+      border-left: 4px solid transparent;
+      display: flex;
+    }
+    .up {
+      border-color: #18b663;
+    }
+    .up.slow {
+      border-color: #fb8c00;
+    }
+    .down {
+      border-color: #e53935;
+    }
+    img {
+      margin-left: 8px;
+      height: 20px;
+      width: 20px;
+      border-radius: 16px;
+    }
+    aside {
+      margin: 0 8px;
+      flex-grow: 1;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+    }
+    h1 {
+      margin: 0;
+      padding: 0;
+      font-size: 14px;
+      font-weight: bold;
+      flex-grow: 1;
+    }
+    .status {
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+    }
+    .status svg {
+      margin: 0 8px;
+    }
+    .up .status {
+      color: #18b663;
+    }
+    .up.slow .status {
+      color: #fb8c00;
+    }
+    .down .status {
+      color: #e53935;
+    }
+    .url {
+      font-size: 12px;
+      opacity: .9;
+    }
+    .metrics {
+      display: flex;
+      flex-direction: column;
+    }
+    .metric {
+      font-size: 10px;
+      opacity: .7;
+      margin-right: 16px;
+    }
+  </style>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <article class="badge up " xmlns="http://www.w3.org/1999/xhtml">
+      <img src="data:application/octet-stream;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAA3NCSVQICAjb4U/gAAADB0lEQVQokQXBTWwUVQAA4PfmvdmZ2ekyu8Pu7G7bbekPUBRaQy1VNC0UEk5gAiZajOHHKJKQcAAvejGRxAQDB2Ji4kGCBw+kqUltjAeKYjQxUiL9CT+u3ZUtdLvsdmf/Zt7Ovnnv8X3w1DvD1/+Izr69VTvySzjg7oglNLYkoCRIqDX3BTRrDX2dr+yvh5oxSHzOpfmH8Qdn39w9BOrUFrKC+IIAMoQebGlcaE88+7/cdlXwJOHIU6o1In0+lurbU8+aX2+sNDQ9AQGHsJktHm56q5UAhmy8F8QCnBbDCvVgRN2Ecqy/+oQN0/fGhp61QgMmWATS5pZbMKRYZfXI1XCjQ5aTtnAkbuvYLxK0o6PvdmaDyNUDI8SUHwO1+nOpI7sKTQ7D6/vLrY1hH3HTUtZrWlNQyCXb5z3hKIms/1+tAywXSuLe/W2vpQoI6oiC9z0jSrg91F/duxMwsUZs6btDx5acpkYMgeplW8QtdGZw1koETOsBMPIcoMfP6+23/4FKwEFivvpQ6mmLTR1963K4e/K85dlDwGWWDmyPkEefQDVP1WxSV4HP4G93042NSLIdO4PLi2rfG7fa3Ep+17GFuTuTqtUJJa/U3k1cgFWAGmr3PC/QJgU4nyniUqo/Er04W/nym9CnN78/+8r4NHg6AxQZOBUQNz+KFMIc/NUbP7nYsqYzN8/swfqzwQP8EhL8g937WlOj92+dOMTltNPKaPhbxXqdXBFghio/nh5JXWs47xYhLFy/48TjxvK/WsWhE2ljePxiLfwDJpe9za/SXANdgTCte+lrzRt/qi8dBUGs59aC+SL0mZAx833A2FTAPk7tOLtbRz+5zqNsBo1uG73Arur40oyyBefq5TYlaGpBwIAXDE1Q47iL9rJ9BHYJqC0vSL//Wu46JVtJ+CE7rIgb6LODk0vFQp8RFQHkcFXSrI8j3gjr7eTTLk0kOvBAaiDV2RAc15zoy2JO2qTqY109lDOuKt6adC7VDDF2Ek/8jb9ySytxCrq2lH0Gfcb0tphgxgv5Q3o0OZ76UwAAAABJRU5ErkJggg==" />
+      <aside>
+        <header>
+          <h1>
+          
+            Music
+          
+          </h1>
+          <div class="status">
+            
+              
+                Up <svg xmlns="http://www.w3.org/2000/svg" fill="#18b663" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"></path></svg>
+              
+            
+          </div>
+        </header>
+        <div class="url">
+          
+            music.2005danielus.ml:443
+          
+        </div>
+        <div class="metrics">
+          <div class="metric">
+            
+            
+            /24h
+            
+            - 100.00% uptime
+            
+            
+             - 510 ms response time
+            
+          </div>
+        </div>
+      </aside>
+    </article>
+  </foreignObject>
+</svg>
