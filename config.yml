@@ -41,6 +41,9 @@ hosts:
   
   - name: cnd.2005danielus.ml
     title: Content management
+    
+  - name: voice.2005danielus.ml
+    title: Voice recognition
 
 site:
 
