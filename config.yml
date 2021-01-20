@@ -47,6 +47,9 @@ hosts:
     
   - name: paint.2005danielus.ml
     title: Paint
+    
+    - name: covid19.2005danielus.ml
+    title: COVID-19
 
 site:
 
