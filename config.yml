@@ -29,10 +29,7 @@ hosts:
 
   - name: dino.2005danielus.ml
     title: Dino
-
-  - name: mail.2005danielus.ml
-    title: Mail
-
+    
   - name: todo.2005danielus.ml
     title: TO-DO
   
